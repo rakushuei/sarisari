@@ -1,0 +1,6 @@
+{
+  "name": "Sari-Sari Store Price Checker",
+  "description": "Quickly search items and check prices for your sari-sari store with instant search, category filters, and a quick calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
